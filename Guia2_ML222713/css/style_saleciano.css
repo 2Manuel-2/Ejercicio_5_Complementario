@@ -1,0 +1,125 @@
+body{
+    background-color: whitesmoke;
+
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav{
+    background-color: rgb(48, 48, 248);
+}
+
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a{
+    color: gold;
+    text-decoration: none;
+    display: block;
+    padding: 16px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav ul li a:hover{
+    background-color: rgb(94, 94, 247);
+    font-size: 22px;
+    padding: 13.5px;
+}
+/*centrando nombre del santo y imagen*/
+.nombreSanto{
+    color: rgb(243, 42, 42);
+    text-align: center;
+    margin-top: 50px;
+
+}
+.contenedor_titulo{
+    background-color: whitesmoke;
+    margin:0 auto;
+    width: 30%;
+}
+
+.imgSanto{
+	margin:10px auto; 
+	
+	display: block;
+	width: 300px;
+	height: 400px;
+	background: #FDEBF7 ; 
+	border-radius: 10px;
+	overflow: hidden;
+}
+.imgSanto:hover{
+	background: #e08cc4 ; 
+    
+}
+
+/*pagina principal de inicio*/
+
+.cuadroFondo{
+    background-color: rgb(172, 143, 143);
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.apartados{
+    color: rgb(228, 201, 52);
+    
+}
+
+.info{
+    color: whitesmoke;
+}
+
+.nota{
+    text-align: center;
+    font-size: 21px;
+}
+
+.autor{
+    color: whitesmoke;
+    text-align: right;
+}
+
+.liks{
+    background-color: rgb(172, 143, 143);
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.liks ol li a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(80, 46, 14);
+}
+
+.liks ol li{
+    margin-bottom: 10px;
+}
+
+footer{
+    text-align: right;
+    font-size: 15px;
+}
+.footer{
+    text-align: left;
+
+}
+

@@ -1,0 +1,107 @@
+body{
+    background-color: #ffd90f;
+}
+
+.name_T{
+    color: rgb(243, 42, 42);
+    text-align: center;
+    margin-top: 50px;
+
+}
+.contenedor_titulo{
+    background-color: whitesmoke;
+    margin:0 auto;
+    width: 30%;
+}
+
+.imgInicio{
+	margin:10px auto; 
+	
+	display: block;
+	width: 300px;
+	height: 400px;
+	background: #FDEBF7 ; 
+	border-radius: 10px;
+	overflow: hidden;
+}
+.imgInicio:hover{
+	background: #e08cc4 ; 
+}
+.img1{
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	border-radius: 10px;
+    width: 90%;
+    height: 90%;
+}
+
+
+.trama{
+    background-color: rgb(250, 238, 134);
+    margin: 0 auto;
+    width: 75%;
+    
+}
+
+.concepto{
+    padding-top: 10px;
+    margin-left: 5%;
+}
+
+.concepto2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 5%;
+}
+
+.parra{
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.personaje{
+	margin:10px auto; 
+	margin-left: 40px;
+	display: inline-block;
+	width: 300px;
+	height: 400px;
+	background: #FDEBF7 ; 
+	border-radius: 10px;
+	overflow: hidden;
+}
+.img{
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	border-radius: 10px;
+    width: 50%;
+    height: 50%;
+}
+
+.img:hover{
+    background-color: white;
+}
+
+.descrip{
+    margin: 20px ;
+	white-space: normal;
+	font-family: arial;
+	text-align: justify;
+}
+
+footer{
+    text-align: right;
+    font-size: 15px;
+}
+
+.nombre{
+    color: red;
+    margin: 20px ;
+	white-space: normal;
+	font-family: arial;
+	text-align: center;
+}

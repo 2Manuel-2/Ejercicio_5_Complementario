@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke;
+}
+
+h2{
+    text-decoration: underline; 
+    color: white;
+}
+
+.p1{
+    color: rgb(16, 71, 173); 
+    font-weight: bold;
+}
+
+.p2{
+    text-transform: uppercase; 
+    text-align: justify;
+}
+
+.p3{
+    font-size: 12px;
+}

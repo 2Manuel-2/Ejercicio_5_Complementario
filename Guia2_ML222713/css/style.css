@@ -1,0 +1,45 @@
+body{
+    /*background: repeating-linear-gradient(-45deg, red, red 5px, white 5px, white 15px);
+*/
+background-color: #000;
+background-image: repeating-linear-gradient(90deg, transparent, transparent 50px,
+      rgba(229, 228, 143, 0.25) 50px, rgba(245, 242, 239, 0.25) 56px, transparent 56px, transparent 63px,
+      rgba(239, 247, 239, 0.25) 63px, rgba(248, 244, 239, 0.25) 69px, transparent 69px, transparent 116px,
+      rgba(255, 206, 0, 0.25) 116px, rgba(255, 206, 0, 0.25) 166px),
+repeating-linear-gradient(0deg, transparent, transparent 50px, rgba(255, 127, 0, 0.25) 50px,
+      rgba(218, 160, 103, 0.25) 56px, transparent 56px, transparent 63px, rgba(255, 127, 0, 0.25) 63px,
+      rgba(255, 127, 0, 0.25) 69px, transparent 69px, transparent 116px, rgba(255, 206, 0, 0.25) 116px,
+      rgba(221, 206, 147, 0.25) 166px),
+repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(143, 77, 63, 0.25) 5px,
+      rgba(143, 77, 63, 0.25) 10px),
+repeating-linear-gradient(45deg, transparent, transparent 5px, rgba(143, 77, 63, 0.25) 5px,
+      rgba(147, 210, 247, 0.25) 10px);
+}
+
+.text{
+    color: aliceblue;
+}
+.text1{
+    color: rgb(139, 236, 13);
+}
+h1{
+    text-align: center;
+}
+
+h3{
+    font-style: italic;
+}
+
+.frases{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    text-align: justify;
+}
+.copi{
+    color: bisque;
+}
+.autor{
+    color: coral;
+    font-size: 15px;
+    text-align: center;
+}
